@@ -38,7 +38,6 @@ Through this project, I demonstrated my ability to handle complex data queries a
 
 - **ad-hoc-requests.pdf**: Document containing the 10 ad hoc business requests.
 - **SQL Queries**: Folder containing SQL scripts used to extract data.
-- **Power BI Visualizations**: Folder containing Power BI files with data visualizations.
 - **Presentation**: PowerPoint file showcasing insights and recommendations.
 
 ## How to Use
@@ -46,9 +45,6 @@ Through this project, I demonstrated my ability to handle complex data queries a
 1. **SQL Queries**:
    - Navigate to the `SQL Queries` folder.
    - Run the SQL scripts in your MySQL environment to extract the necessary data.
-   
-2. **Power BI Visualizations**:
-   - Open the Power BI files in Power BI Desktop to view the visualizations.
    
 3. **Presentation**:
    - Open the PowerPoint file to view the presentation designed for top-level management.
